@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2a52432b17801f459802ec581d1da56, type: 3}
+  m_Name: see the woman first time you have the dog
+  m_EditorClassIdentifier: 
+  storyText: "\t\t\t\t\t\tDark Alleyway\r\n\nAfter some walking you see a woman finding
+    someone by screaming a name, you do not know that name, the woman sees you...\r\n\r\nWhat
+    would you do?\r\n\r\n1. Ask Woman his name and who are you finding...\r\n\r\n2.
+    Leave her alone and move forward..."
+  nextState:
+  - {fileID: 11400000, guid: ef675e7db26b969438e1efeb4902af8b, type: 2}
+  - {fileID: 11400000, guid: ef675e7db26b969438e1efeb4902af8b, type: 2}

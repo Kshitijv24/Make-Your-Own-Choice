@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2a52432b17801f459802ec581d1da56, type: 3}
+  m_Name: Stay in the room 2
+  m_EditorClassIdentifier: 
+  storyText: "\t\t\t\t\t\t    Starting Room\r\n\nYou are still in this room, you
+    are the laziest person I have ever seen, or are you scared of going outside,
+    I don't know.\r\n\r\nI did not create this game for you to be in a single place
+    forever,\r\nI am telling you there are a lot of things outside of this room that
+    you wonna check out, What do you say?\r\n\r\n1. Exit out of the room.\r\n\r\n2.
+    Don't leave the room."
+  nextState:
+  - {fileID: 11400000, guid: c1ffb682bac444b40a00a91846214bdb, type: 2}
+  - {fileID: 11400000, guid: 63406000b5e58734094a28315a49ba85, type: 2}

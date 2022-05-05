@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2a52432b17801f459802ec581d1da56, type: 3}
+  m_Name: Stay in the room 4
+  m_EditorClassIdentifier: 
+  storyText: "\t\t\t\t\t\tStarting Room\r\n\nnow there is no way for you to leave
+    this room because you like it so much so you don't need to leave this room ever.\r\n\r\n1.
+    Continue..."
+  nextState:
+  - {fileID: 11400000, guid: 6da4d33a64a93184f9b4eaeb17c27a4e, type: 2}

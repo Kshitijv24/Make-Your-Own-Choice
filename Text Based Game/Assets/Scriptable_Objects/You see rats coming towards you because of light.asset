@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2a52432b17801f459802ec581d1da56, type: 3}
+  m_Name: You see rats coming towards you because of light
+  m_EditorClassIdentifier: 
+  storyText: "\t\t\t\t\t\tDark Alleyway\r\n\nYou turn on your torch as soon as you
+    turn on your torch, you see a hunge group of wild rats are coming towards you.\n\nWhat
+    would you do?\n\n1. Show them the light of torch.\r\n\r\n2. Don't show them lights."
+  nextState:
+  - {fileID: 11400000, guid: 37e53cb05f58a4847974cbf54bf0df6b, type: 2}
+  - {fileID: 11400000, guid: 0dc462878772e02468ed6d30ee5c1a03, type: 2}

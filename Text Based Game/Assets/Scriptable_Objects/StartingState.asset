@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2a52432b17801f459802ec581d1da56, type: 3}
+  m_Name: StartingState
+  m_EditorClassIdentifier: 
+  storyText: "\t\t\t\t\t\tGame Introduction\r\n\nHello, this is a text-based game
+    where your choices matter, game-ending is gonna change according to your choices.\r\n\r\nin
+    all the sections of the game, you have some decisions to make, and chose them
+    carefully. it could be something like that\r\n\nat any time in the game you can
+    press\nR to restart the game\nE to Exit out of the game\n\r\n1. continue...\r\r\nPress
+    1 to continue"
+  nextState:
+  - {fileID: 11400000, guid: 7f21f2a2bc0ad7546bff746ca2201e2a, type: 2}

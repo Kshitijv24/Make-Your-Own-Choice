@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2a52432b17801f459802ec581d1da56, type: 3}
+  m_Name: Stay in the room 3
+  m_EditorClassIdentifier: 
+  storyText: "\t\t\t\t\t\tStarting Room\r\n\nSo you really like this room hmm...\r\n\r\nmaybe
+    you just wanna live in this room all your life, ok so here are your last 2 options.\r\n\r\n\r\n1.
+    Stay in the room.\r\n\r\n2. Stay in the room."
+  nextState:
+  - {fileID: 11400000, guid: d9864f1ea5cff644482f00cfab26677e, type: 2}
+  - {fileID: 11400000, guid: d9864f1ea5cff644482f00cfab26677e, type: 2}

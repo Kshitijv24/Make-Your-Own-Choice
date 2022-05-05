@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2a52432b17801f459802ec581d1da56, type: 3}
+  m_Name: Starting Room Bigning
+  m_EditorClassIdentifier: 
+  storyText: "\t\t\t\t\t\tStarting Room\r\n\nYou are in a room, you wake up from
+    your sleep.\r\n\r\nthis room does not have many things, just one fan, one bad,
+    and a water bottle.\r\n\r\nYou see the door of the room, what would you do?\r\n\r\n1.
+    Exit out of the room.\r\n\r\n2. Stay in the room."
+  nextState:
+  - {fileID: 11400000, guid: c1ffb682bac444b40a00a91846214bdb, type: 2}
+  - {fileID: 11400000, guid: 17415c90b3fa98c46bfbb51a1c483bde, type: 2}

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2a52432b17801f459802ec581d1da56, type: 3}
+  m_Name: Dark Alleyway pickup the torch
+  m_EditorClassIdentifier: 
+  storyText: "\t\t\t\t\t\tDark Alleyway\r\n\nAfter picking up the torch, you see
+    a table right outside of your room. There are some things on that table. \r\n\r\nThere
+    is an apple and a knife.\n\r\n1. Pick up both apple and knife and start walking.\r"
+  nextState:
+  - {fileID: 11400000, guid: 966e70e23aae7f74ca1937cdbdfba0ee, type: 2}

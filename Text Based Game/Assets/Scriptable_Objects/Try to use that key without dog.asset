@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2a52432b17801f459802ec581d1da56, type: 3}
+  m_Name: Try to use that key without dog
+  m_EditorClassIdentifier: 
+  storyText: "\t\t\t\t\t\t\tThe Exit\r\n\nYou use that key on the locker and somehow
+    that lock is opened as the gate opens it makes the sound of some heavy objects
+    moving, slowly you start to see the other side of the gate as the gate opens.\r\n\r\nand
+    what did you see on Otherside?\r\n\r\nthat is for the next part, this is it for
+    the first part thanks for playing my game.\n\nPress E to exit the game.\n\nPress
+    R to Restart the game."
+  nextState: []

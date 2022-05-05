@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2a52432b17801f459802ec581d1da56, type: 3}
+  m_Name: Tell woman the truth you see the dog but he is not with you
+  m_EditorClassIdentifier: 
+  storyText: "\t\t\t\t\t\t  Dark Alleyway\r\n\nYou tell her the truth and she seems
+    really happy.\r\n\r\nRose says: thank you for your help I was founding my dog
+    for soo long, I did not know where to look anymore thank you stranger, here take
+    this.\r\n\r\nShe gives you a key, before you ask her what is it for but before
+    you can complete your sentance she left to find her dog, you move forward.\r\n\r\n1.
+    Continue..."
+  nextState:
+  - {fileID: 11400000, guid: 15a2f1d624bcda5499d59388bc680a43, type: 2}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2a52432b17801f459802ec581d1da56, type: 3}
+  m_Name: Don't give her the dog
+  m_EditorClassIdentifier: 
+  storyText: "\t\t\t\t\t\t  Dark Alleyway\r\n\nYou say to her: no I am not gonna
+    give you the dog because he did not want to be with you and i do not think you
+    treat him well that is why he always try to run away from you.\r\n\r\nSee look
+    angry and try to attack you.\r\n\r\nWhat would you do?\r\n\r\n1. try to use that
+    knife that you have.\r\n\r\n2. try to run away from her."
+  nextState:
+  - {fileID: 11400000, guid: 8be216f7c21cde249be261b5eea0c34b, type: 2}
+  - {fileID: 11400000, guid: 8be216f7c21cde249be261b5eea0c34b, type: 2}
