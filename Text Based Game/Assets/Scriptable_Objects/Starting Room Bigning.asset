@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Starting Room Bigning
   m_EditorClassIdentifier: 
   storyText: "\t\t\t\t\t\tStarting Room\r\n\nYou are in a room, you wake up from
-    your sleep.\r\n\r\nthis room does not have many things, just one fan, one bad,
+    your sleep.\r\n\r\nthis room does not have many things, just one fan, one bed,
     and a water bottle.\r\n\r\nYou see the door of the room, what would you do?\r\n\r\n1.
     Exit out of the room.\r\n\r\n2. Stay in the room."
   nextState:

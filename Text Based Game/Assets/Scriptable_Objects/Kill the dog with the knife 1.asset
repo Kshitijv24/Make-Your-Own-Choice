@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Kill the dog with the knife 1
   m_EditorClassIdentifier: 
   storyText: "\t\t\t\t\t\tDark Alleyway\r\n\nYou pick up the knife from the back
-    pocket of your jens and you started showing it to the dog, after seeing the knife
-    the dog started looking and barking at you angrily.\r\n\r\n1. Continue..."
+    pocket of your jeans and you started showing it to the dog, after seeing the
+    knife the dog started looking and barking at you angrily.\r\n\r\n1. Continue..."
   nextState:
   - {fileID: 11400000, guid: 72c9cb7ffe6d754499131fcd08634692, type: 2}

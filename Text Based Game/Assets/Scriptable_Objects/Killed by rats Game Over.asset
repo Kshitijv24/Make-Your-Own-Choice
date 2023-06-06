@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d2a52432b17801f459802ec581d1da56, type: 3}
   m_Name: Killed by rats Game Over
   m_EditorClassIdentifier: 
-  storyText: "\t\t\t\t\t\t     Game Over\r\nRats eat you alive and after some time
-    there is nothing left of you, you died!!!\r\n\r\n\r\nPress R to restart the game."
+  storyText: "\t\t\t\t\t\t     Game Over\n\r\nRats eat you alive and after some time
+    there is nothing left of you, you died!!!\r\n\r\nPress R to restart the game."
   nextState: []

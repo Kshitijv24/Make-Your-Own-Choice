@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: ask woman her name you do not have the dog
   m_EditorClassIdentifier: 
   storyText: "\t\t\t\t\t\t  Dark Alleyway\r\n\nThe woman says her name is Rose and
-    she is looking for her dog, Wolf. see asked you did you see any dog while coming
-    here...\r\n\r\nWhat would you say...\r\n\r\n1. Tell her the truth, you saw the
-    dog some moments ago, that he is finding some food.\r"
+    she is looking for her dog named \"Wolf\". she asked you did you see any dog
+    while coming here...\r\n\r\nWhat would you say...\r\n\r\n1. Tell her the truth,
+    you saw the dog some moments ago, that he is finding some food.\r"
   nextState:
   - {fileID: 11400000, guid: c83ed1d96b6374147b2fceb6c2de1287, type: 2}

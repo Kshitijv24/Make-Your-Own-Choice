@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d2a52432b17801f459802ec581d1da56, type: 3}
   m_Name: Give dog the apple
   m_EditorClassIdentifier: 
-  storyText: "\t\t\t\t\t\tDark Alleyway\r\n\nYou give the dog the apple, looks like
-    the dog was hungry for a long time, he finished the apple almost instantly.\r\n\r\nnow
-    the dog looks happy and well-fed, he starts moving his tale looking at you happily.
+  storyText: "\t\t\t\t\t\tDark Alleyway\r\n\nYou give dog the apple, looks like the
+    dog was hungry for a long time, he finished the apple almost instantly.\r\n\r\nnow
+    the dog looks happy and well-fed, he starts moving his tail looking at you happily.
     it looks like he wants to go with you.\r\n\r\nWhat would you do?\r\n\r\n1. Take
     the dog with you, assuming you can save him, if there is more danger forward.\r\n\r\n2.
     leave the dog here, for his own good."

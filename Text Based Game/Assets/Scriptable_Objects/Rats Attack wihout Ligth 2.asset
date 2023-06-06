@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Rats Attack wihout Ligth 2
   m_EditorClassIdentifier: 
   storyText: "\t\t\t\t\t\tDark Alleyway\r\n\nYou don't have any light source, you
-    think to yourself I should have picked that light before.\r\n\r\nThe rats sense
+    think to yourself I should have picked that torch before.\r\n\r\nThe rats sense
     your presence and they are coming towards you, there are maybe 100 rats. \r\n\r\nWhat
     would you do?\r\n\r\n1. Run for your life, you know you can not kill all of them,\r\nand
     even if one of them bites you, there is a chance of poison.\r\n\r\n2. try to

@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: Stay in the room 1
   m_EditorClassIdentifier: 
   storyText: "\t\t\t\t\t\tStarting Room\r\n\nYou are still in the room, what are
-    you waiting for, do you thing something is gonna happen if you be inside this
-    room?\r\n\r\n1. Exit out of the room.\r\n\r\n2. Still be in the room, waiting
-    for something to happne."
+    you waiting for, do you think something is gonna happen if you stay in this room?\r\n\r\n1.
+    Exit out of the room.\r\n\r\n2. Still be in the room, waiting for something to
+    happen."
   nextState:
   - {fileID: 11400000, guid: c1ffb682bac444b40a00a91846214bdb, type: 2}
   - {fileID: 11400000, guid: 61095c98026b1d849b7b1b5ed6e2d5a4, type: 2}

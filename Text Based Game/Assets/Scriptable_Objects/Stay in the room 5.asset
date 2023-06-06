@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Stay in the room 5
   m_EditorClassIdentifier: 
   storyText: "\t\t\t\t\t\tStarting Room\r\n\nEnjoy your stay in this high-class room,
-    where you have one fan, one bad, and one half-empty water bottle.\r\n\r\n1. Continue..."
+    where you have one fan, one bed, and one half-empty water bottle.\r\n\r\n1. Continue..."
   nextState:
   - {fileID: 11400000, guid: 2d58363f724dfaa4780b8bdd90a15803, type: 2}

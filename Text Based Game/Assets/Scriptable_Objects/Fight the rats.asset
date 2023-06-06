@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: Fight the rats
   m_EditorClassIdentifier: 
   storyText: "\t\t\t\t\t\tDark Alleyway\r\n\nYou try to fight them you killed some
-    by stapping on them with your shows, but there are a lot of them, they start
-    biting you on your legs, and slowly they overwhelm you and you are on the floor
-    they started eating you alive.\r\n\r\n1. Continue..."
+    by stomping on them with your shoes, but there are lot of them, they start biting
+    you on your legs, and slowly they overwhelm you and you are on the floor they
+    started eating you alive.\r\n\r\n1. Continue..."
   nextState:
   - {fileID: 11400000, guid: d50d1618f0732ee45ae51a40b9359239, type: 2}

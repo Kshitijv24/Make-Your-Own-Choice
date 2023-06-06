@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   storyText: "\t\t\t\t\t\tDark Alleyway\r\n\nYou asked her what is the use of this
     key.\r\n\r\nShe says: there is only one way to get out of this place and that
-    is that key because you helped recover my dog so I am giving you this key as
-    a gift.\r\n\r\n1. You take the key and move forward."
+    is that key because you helped find my dog so I am giving you this key as a gift.\r\n\r\n1.
+    You take the key and move forward."
   nextState:
   - {fileID: 11400000, guid: 15a2f1d624bcda5499d59388bc680a43, type: 2}

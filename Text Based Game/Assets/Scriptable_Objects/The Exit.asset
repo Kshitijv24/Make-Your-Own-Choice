@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: The Exit
   m_EditorClassIdentifier: 
   storyText: "\t\t\t\t\t\t\tThe Exit\r\n\nYou see a big gate at the end of the Alleyway,
-    it looks locked, it looks like it needs a key of some kind.\r\n\r\nYou remembered
-    the key that you got from that woman.\r\n\r\nWhat would you do?\r\n\r\n1. Try
-    to use that key.\r\n\r\n2. Look for another way in."
+    it locked, it looks like it needs a key of some kind.\r\n\r\nYou remembered the
+    key that you got from that woman.\r\n\r\nWhat would you do?\r\n\r\n1. Try to
+    use that key.\r\n\r\n2. Look for another way in."
   nextState:
   - {fileID: 11400000, guid: d63a1194f3ef67d4ca2c946ad45ab906, type: 2}
   - {fileID: 11400000, guid: f3823fc3bc4c31a4c88f3c26754b5393, type: 2}

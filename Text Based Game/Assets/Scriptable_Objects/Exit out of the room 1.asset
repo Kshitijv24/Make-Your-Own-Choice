@@ -15,7 +15,7 @@ MonoBehaviour:
   storyText: "\t\t\t\t\t\tDark Alleyway\r\n\nThis is a big empty dark alleyway, there
     is no light, you can not see anything, you try to find a source of light.\r\n\r\nYou
     found a Torch, what would you do?\r\n\r\n1. Pick up the Torch.\r\n\r\n2. Leave
-    the Troch, and start walking towards the dark alleyway, without any light Source."
+    the Torch, and start walking towards the dark alleyway, without any light Source."
   nextState:
   - {fileID: 11400000, guid: ff419b1c9205f284ca45604bb5abcaa5, type: 2}
   - {fileID: 11400000, guid: c93945afa0105084b8632b6b9dbe3643, type: 2}
