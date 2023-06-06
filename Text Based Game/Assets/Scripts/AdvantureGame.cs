@@ -24,13 +24,15 @@ public class AdvantureGame : MonoBehaviour
     {
         State[] nextState = state.GetNextState();
 
-        if (Input.GetKeyDown(KeyCode.Alpha1) && state != null)
+        if (Input.GetKeyDown(KeyCode.Alpha1))
         {
+            if (nextState == null || nextState.Length < 1) return;
             state = nextState[0];
         }
 
-        else if (Input.GetKeyDown(KeyCode.Alpha2) && state != null)
+        else if (Input.GetKeyDown(KeyCode.Alpha2))
         {
+            if (nextState == null || nextState.Length < 2) return;
             state = nextState[1];
         }
 
