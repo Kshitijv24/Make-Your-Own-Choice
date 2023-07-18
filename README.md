@@ -1,5 +1,5 @@
 # Make-Your-Own-Choice
-This is a text choice-based game, I made this to learn Scriptable objects in Unity Game Engine.
+This is a text choice-based game.
 
 ![Untitled23](https://github.com/Kshitijv24/Make-Your-Own-Choice/assets/95018078/324fef51-9b9d-4c82-a94d-377d3a78ab05)
 
